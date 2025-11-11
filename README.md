@@ -1,4 +1,4 @@
-![logo](https://github.com/Student-apurba/Student-apurba/blob/main/Apurba%20Kumar%20Jana.png)
+![logo](https://github.com/Student-apurba/Student-apurba/blob/main/apurba.github_banner.png)
 <h1 align="center">Hi 👋, I'm Apurba Kumar Jana</h1>
 <h3 align="center">A Passionate Java Backend Developer</h3>
 

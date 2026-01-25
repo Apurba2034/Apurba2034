@@ -1,4 +1,4 @@
-![logo](https://github.com/Apurba2034/Apurba2034/blob/main/apurba.github_banner.png)
+![logo](https://github.com/Apurba2034/Student-apurba/blob/main/apurba.github_banner.png)
 <h1 align="center">Hi 👋, I'm Apurba Kumar Jana</h1>
 
 ---
@@ -39,5 +39,14 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Apurba2034&show_icons=true&locale=en" alt="Apurba2034" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Apurba2034&" alt="Apurba2034" /></p>
+
+
+
+
+
+
+
+
+
+
 

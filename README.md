@@ -1,4 +1,4 @@
-![logo](https://github.com/Student-apurba/Student-apurba/blob/main/apurba.github_banner.png)
+![logo](https://github.com/Apurba2034/Apurba2034/blob/main/apurba.github_banner.png)
 <h1 align="center">Hi 👋, I'm Apurba Kumar Jana</h1>
 
 ---
@@ -8,7 +8,7 @@
 
 <img align="right" alt="coding" width="400" src="https://nisthajain.vercel.app/images/giphy.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=student-apurba&label=Profile%20views&color=0e75b6&style=flat" alt="student-apurba" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=student-apurba&label=Profile%20views&color=0e75b6&style=flat" alt="Apurba2034" /> </p>
 
 - 🌱 I’m currently learning **Spring Boot,Microservices**
 
@@ -35,9 +35,9 @@
 ---
 ## My Github Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=student-apurba&show_icons=true&locale=en&layout=compact" alt="student-apurba" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Apurba2034&show_icons=true&locale=en&layout=compact" alt="Apurba2034" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=student-apurba&show_icons=true&locale=en" alt="student-apurba" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Apurba2034&show_icons=true&locale=en" alt="Apurba2034" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=student-apurba&" alt="student-apurba" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Apurba2034&" alt="Apurba2034" /></p>
 

@@ -3,14 +3,14 @@
 
 ---
 ## About Me
-<h3 align="center">A Passionate Java Backend Developer</h3>
+<h3 align="center">A Passionate Software Testing Engineer</h3>
 
 
 <img align="right" alt="coding" width="400" src="https://nisthajain.vercel.app/images/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=student-apurba&label=Profile%20views&color=0e75b6&style=flat" alt="Apurba2034" /> </p>
 
-- 🌱 I’m currently learning **Spring Boot,Microservices**
+- 🌱 I’m currently learning **Automation Testing**
 
 - 💬 Ask me about **Core concepts of Java, Data Structure and Algorithm ,SQL**
 

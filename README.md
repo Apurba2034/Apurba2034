@@ -1,4 +1,4 @@
-![logo](https://github.com/Apurba2034/Student-apurba/blob/main/apurba.github_banner.png)
+![logo](https://github.com/Apurba2034/Apurba2034/blob/main/apurba.github_banner.png)
 <h1 align="center">Hi 👋, I'm Apurba Kumar Jana</h1>
 
 ---
@@ -8,11 +8,11 @@
 
 <img align="right" alt="coding" width="400" src="https://nisthajain.vercel.app/images/giphy.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=student-apurba&label=Profile%20views&color=0e75b6&style=flat" alt="Apurba2034" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Apurba2034&label=Profile%20views&color=0e75b6&style=flat" alt="Apurba2034" /> </p>
 
 - 🌱 I’m currently learning **Automation Testing**
 
-- 💬 Ask me about **Core concepts of Java, Data Structure and Algorithm ,SQL**
+- 💬 Ask me about **Core concepts of Java,Manual Testing,SQL**
 
 - 📫 How to reach me **apurbaj603@gmail.com**
 
